@@ -9,7 +9,7 @@ int main() {
     int opt = 1;
     switch(opt){
         case 1:
-            /* Suma */
+            cout << suma(1,2) << endl;
             break;
         case 2:
             /* Resta */
